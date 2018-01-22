@@ -4,4 +4,6 @@ This repo is actually intended for my personal backup, but everyone are welcome 
 
 Built on **Archlinux**
 
+![lulz](https://github.com/Wasabiiiiiii/dots/blob/master/foo.png)
+
 
